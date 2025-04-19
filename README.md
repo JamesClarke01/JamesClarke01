@@ -1,5 +1,5 @@
-## james
-Software engineer with a love of programming.
+## James' GitHub!
+Hi I'm a software engineer with a love for programming.
 Feel free to have a look around :)
 
 <!--
