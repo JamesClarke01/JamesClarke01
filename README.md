@@ -1,4 +1,6 @@
-## Hi there 👋
+## james
+Software engineer with a love of programming.
+Feel free to have a look around :)
 
 <!--
 **JamesClarke01/JamesClarke01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
